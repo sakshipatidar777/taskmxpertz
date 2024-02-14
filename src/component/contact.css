@@ -1,0 +1,6 @@
+.bgcolor{
+    background-image:url("/public/images/contactbg.jpg") ;
+    background-repeat: no-repeat;
+background-size: cover;
+    /* filter: blur(8px); */ 
+}
